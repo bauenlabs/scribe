@@ -14,16 +14,6 @@ import "github.com/bauenlabs/scribe"
 
 ## Usage
 
-```go
-var (
-	TraceLog   *log.Logger
-	InfoLog    *log.Logger
-	WarningLog *log.Logger
-	ErrorLog   *log.Logger
-	FatalLog   *log.Logger
-)
-```
-
 #### func  Error
 
 ```go
