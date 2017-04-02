@@ -1,5 +1,5 @@
-// Package log provides a standard set of logging tools.
-package log
+// Scribe provides a standard set of logging tools.
+package scribe
 
 import (
 	"io/ioutil"
